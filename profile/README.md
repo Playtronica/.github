@@ -7,3 +7,5 @@ It\`s made with simple markup language `Markdown`
 * [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
 One can add to this file text, tables, pictures, lists and so on 
+
+[README before you start](https://github.com/Playtronica/.github/blob/main/README.md)
