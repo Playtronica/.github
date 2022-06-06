@@ -8,12 +8,12 @@
     
 * Copy link from github
 ![](images/screenshot.png)
-* Open terminal in your work directory and execute `git clone` command
+* Open terminal in your work directory and execute command`git clone` 
     ```bash
     cd my-work-directory # moving to work dir
     git clone https://github.com/Playtronica/.github.git # cloninig repository from github
     ```
-* Now you got sources from github to your computer
+* Now you got sources from github on your computer
 
 ## 2. Work rules
 
@@ -29,10 +29,10 @@
     git status # make shure that everything is OK
     git commit # commit changes 
 
-    # You also can write commit message in terinal
+    # You also can write commit message in command line
     git commit -m "Message describing my result"
     ```
-* Write informatime messages for commits
+* Write informative messages for commits
 
 ## 3. Share your results to others
 
@@ -47,7 +47,7 @@
     
         ![](images/branches.png)
 
-    2. Press on message desribing how much commits your branch ahead of main
+    2. Press on message describing how much commits your branch ahead of main
 
         ![](images/commits.png)
 
