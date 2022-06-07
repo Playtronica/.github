@@ -1,6 +1,6 @@
 # Organization README
 
-![Playtronica](../images/Playtronica.jpg)
+![Playtronica](/images/Playtronica.jpg)
 
 Contet of this file will be visible to everyone 
 
