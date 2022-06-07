@@ -1,4 +1,7 @@
 # Organization README
+
+![](../images/Playtronica.jpg)
+
 Contet of this file will be visible to everyone 
 
 It\`s made with simple markup language `Markdown`
